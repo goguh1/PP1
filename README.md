@@ -11,3 +11,13 @@ storage (remember color correcter's prefer local storage for bandwidth issues)
 - Line 1: Producer / Operator / job /notes
 - Line 4: show location / frames to fix
 - Frames in consecutive order shown as ranges
+
+
+Project: example
+Xytech:
+/ddnsan2/avengers/reel1/1920x1080
+Baselight_export:
+/images1/avengers/reel1/1920x1080 10 11 12 13 19 23 24
+/ddnsan2/avengers/reel1/1920x1080 10-13
+/ddnsan2/avengers/reel1/1920x1080 19
+/ddnsan2/avengers/reel1/1920x1080 23-24
