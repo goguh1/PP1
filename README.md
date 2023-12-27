@@ -14,8 +14,10 @@ storage (remember color correcter's prefer local storage for bandwidth issues)
 
 
 Project: example
+
 Xytech:
 /ddnsan2/avengers/reel1/1920x1080
+
 Baselight_export:
 /images1/avengers/reel1/1920x1080 10 11 12 13 19 23 24
 /ddnsan2/avengers/reel1/1920x1080 10-13
